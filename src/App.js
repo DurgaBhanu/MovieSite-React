@@ -4,7 +4,7 @@ import './App.css'
 import SearchIcon from './search.svg'
 import Movie from './Movie'
 
-URL=' http://www.omdbapi.com?apikey=39928637'
+const URL=' http://www.omdbapi.com?apikey=39928637'
 
 
 const App = () => {
