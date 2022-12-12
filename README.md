@@ -2,9 +2,7 @@
 
 #To run this application
 
-1.npm install
-  Installs all the dependencies needed
+1.npm install: Installs all the dependencies needed
   
-2.npm start
-  Runs the Applicaton
+2.npm start: Runs the Applicaton
 
